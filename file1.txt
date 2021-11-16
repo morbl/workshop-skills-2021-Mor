@@ -1,2 +1,3 @@
 file 1
 new line
+new line b2
